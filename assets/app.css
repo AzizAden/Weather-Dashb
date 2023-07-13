@@ -1,0 +1,45 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .head {
+    background-color: #3a51e8;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    border-width: 3px;
+    border-bottom-color: #e61c26;
+    border-bottom-style: solid;
+    padding: 10px;
+  }
+  
+  .searchbar {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .hide {
+    visibility: hidden;
+  }
+  
+  .cityname {
+    font-size: 30px;
+  }
+  
+  .date {
+    font-size: 20px;
+  }
+  
+  .img {
+    max-width: 20%;
+  }
+  
+  .future {
+    font-size: 30px;
+  }
+  
+  .card {
+    margin: 5px;
+  }
+  
